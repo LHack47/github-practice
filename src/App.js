@@ -11,6 +11,10 @@ function App() {
         <li>This is jsx.</li>
         <li>This is another list item.</li>
       </ol>
+      <ul>
+        <li>Because we can track changes</li>
+        <li>Because we can see the code history</li>
+      </ul>
     </div>
   );
 }
