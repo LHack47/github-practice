@@ -7,6 +7,10 @@ function App() {
       <header className="App-header">
         <p>Github is super awesome.</p>
       </header>
+      <ul>
+        <li>Because we can track changes</li>
+        <li>Because we can see the code history</li>
+      </ul>
     </div>
   );
 }
